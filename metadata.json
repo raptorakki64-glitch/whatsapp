@@ -1,0 +1,6 @@
+{
+  "name": "Estate Heritage Template Creator",
+  "description": "An elegant editorial poster and flyer creator built around the Agrarian Luxury aesthetic. Design, customize, and export high-resolution assets for printing and digital displays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
